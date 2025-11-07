@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm [Francisco Pacheco]  
 
-<!--
-**pach24/pach24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Junior Developer** transitioning from game development into software engineering, DevOps, and data engineering.  
+💻 Passionate about automation, data infrastructure, and scalable cloud systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Languages:** Java, Python, JavaScript, SQL, Bash  
+- **Cloud & DevOps:** AWS, Docker, GitLab CI/CD, Jenkins  
+- **Web:** HTML, CSS, JS  
+- **Tools:** Git, Linux, Salesforce, VS Code  
+
+---
+
+### 🧪 Current Focus
+🚀 Building projects with **Python, AWS**, and **data pipelines**  
+📚 Learning more about **DevOps, cloud infrastructure**, and **machine learning**
+
+---
+
+### 🕹️ Background
+🎮 Former **3D artist** turned **developer** — creative mindset meets technical precision.  
+
+---
+
+### 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/franciscopachecogomez) | [Portfolio](https://francisco-pacheco.com/) | [Email](mailto:franciscopachecojob@gmail.com)
