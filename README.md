@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Francisco Pacheco]  
+# 👋 Hi, I'm Francisco Pacheco  
 
 🎯 **Junior Developer** transitioning from game development into software engineering, DevOps, and data engineering.  
 💻 Passionate about automation, data infrastructure, and scalable cloud systems.
