@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Francisco Pacheco  
 
-🎯 **Junior Developer** transitioning from game development into data engineering.  
-💻 Passionate about automation, data infrastructure, and scalable cloud systems.
+💻 Junior Developer transitioning into **Data Engineering** & **Cloud**
+Focused on automation, data pipelines, and scalable backends.
 
 ---
 
@@ -30,7 +30,11 @@ A native Android application focused on displaying and filtering invoice data, b
 This app loads a list of invoices and allows users to filter them by **status, date range, and amount**.  
 The main goal is to demonstrate modern Android development practices (**MVVM, separation of concerns, repository pattern**) in a **production-like structure**, making it ideal for your portfolio.
 
-🔗 [Check it out on GitHub](https://github.com/pach24/InvoiceApp)
+<br>
+
+<a href="https://github.com/pach24/InvoiceApp">
+  <img src="https://custom-icon-badges.demolab.com/badge/-View%20on%20GitHub-181717?style=for-the-badge&logo=repo&logoColor=white" alt="View on GitHub"/>
+</a>
 
 </td>
 <td width="50%">
@@ -41,24 +45,38 @@ The main goal is to demonstrate modern Android development practices (**MVVM, se
 </tr>
 </table>
 
-
 ---
 
 ### 🧪 Current Focus
-🚀 Building projects with **Python, AWS**, and **data pipelines**  
-📚 Learning more about **DevOps, cloud infrastructure**, and **machine learning**
+- Designing **ETL pipelines** with Python  
+- Learning **CI/CD pipelines** (Jenkins, GitHub Actions)  
+- Getting deeper into **Docker & containerization**
 
 ---
 
 ### 🕹️ Background
 🎮 Former **3D artist** turned **developer** — creative mindset meets technical precision.  
 
-Check out my artwork on [ArtStation](https://www.artstation.com/franciscopacheco).
-
+<a href="https://www.artstation.com/franciscopacheco">
+  <img src="https://img.shields.io/badge/View%20my%20artwork-ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation Portfolio"/>
+</a>
 
 ---
 
 ### 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/franciscopachecogomez) | [Portfolio](https://francisco-pacheco.com/) | [Email](mailto:franciscopachecojob@gmail.com)
 
-la ikmagen tiene que estar a la derecha
+
+  
+<p align="center">
+  <a href="https://www.linkedin.com/in/franciscopachecogomez"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.artstation.com/franciscopacheco"><img src="https://cdn.simpleicons.org/artstation/13AFF0" width="40" height="40" alt="ArtStation"/></a>
+  &nbsp;&nbsp;
+ <a href="https://francisco-pacheco.com/"><img src="https://cdn.simpleicons.org/safari/006CFF" width="40" height="40" alt="Portfolio"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:franciscopachecojob@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email"/></a>
+</p>
+
+
+
+
