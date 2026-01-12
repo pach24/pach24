@@ -32,14 +32,14 @@ The main goal is to demonstrate modern Android development practices (**MVVM, se
 
 <br>
 
-<a href="https://github.com/pach24/InvoiceApp">
+<a href="https://github.com/pach24/nexosolar-android">
   <img src="https://custom-icon-badges.demolab.com/badge/-View%20on%20GitHub-181717?style=for-the-badge&logo=repo&logoColor=white" alt="View on GitHub"/>
 </a>
 
 </td>
 <td width="50%">
 
-<img src="https://github.com/user-attachments/assets/5f4f54a9-08bb-4572-b915-69a97416bda1" width="100%"/>
+<img width="1084" height="884" alt="Image" src="https://github.com/user-attachments/assets/46060c84-848a-4473-ac0d-4dd869fbb5da" />
 
 </td>
 </tr>
