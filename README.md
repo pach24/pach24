@@ -20,26 +20,36 @@ Focused on automation, data pipelines, and scalable backends.
 
 ---
 
-## 🌟 Featured Project: InvoiceApp
+## 🌟 Featured Project: **NexoSolar**
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-A native Android application focused on displaying and filtering invoice data, built to showcase **clean architecture**.  
-This app loads a list of invoices and allows users to filter them by **status, date range, and amount**.  
-The main goal is to demonstrate modern Android development practices (**MVVM, separation of concerns, repository pattern**) in a **production-like structure**, making it ideal for your portfolio.
+Developed during a **Professional Traineeship at Viewnext**, this project bridges the gap between academic theory and **industry standards**.  
+It moves beyond simple functionality to showcase a decoupled, **production-ready architecture** designed for Scalability and Maintainability.
 
 <br>
 
+**Key Technical Highlights:**
+*   🏗️ **Clean Architecture:** Strict adherence to **MVVM & SOLID** principles.
+*   💾 **Offline-First:** Robust data handling using **Room** as the Single Source of Truth (SSOT).
+*   🔄 **Flexible Networking:** Supports both Real API (**Retrofit**) and Mocking strategies.
+*   ✅ **Code Quality:** Comprehensive Unit Testing with **JUnit & Mockito**.
+
+<br>
+
+<!-- Botón estilo Apple -->
 <a href="https://github.com/pach24/nexosolar-android">
-  <img src="https://custom-icon-badges.demolab.com/badge/-View%20on%20GitHub-181717?style=for-the-badge&logo=repo&logoColor=white" alt="View on GitHub"/>
+    View on GitHub
 </a>
 
 </td>
 <td width="50%">
 
-<img width="1084" height="884" alt="Image" src="https://github.com/user-attachments/assets/46060c84-848a-4473-ac0d-4dd869fbb5da" />
+<a href="https://github.com/pach24/nexosolar-android">
+  <img width="1075" height="984" alt="InvoiceApp Preview" src="https://github.com/user-attachments/assets/c89df211-b7ad-4ba0-b835-b06f44b80ae1" />
+</a>
 
 </td>
 </tr>
