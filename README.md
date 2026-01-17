@@ -48,7 +48,7 @@ It moves beyond simple functionality to showcase a decoupled, **production-ready
 <td width="50%">
 
 <a href="https://github.com/pach24/nexosolar-android">
-  <img width="1075" height="984" alt="InvoiceApp Preview" src="https://github.com/user-attachments/assets/c89df211-b7ad-4ba0-b835-b06f44b80ae1" />
+  <img width="926" height="967" alt="Image" src="https://github.com/user-attachments/assets/98d13c32-d733-4bde-9eb8-b6e2d8a522d3" />
 </a>
 
 </td>
