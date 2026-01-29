@@ -5,7 +5,7 @@
 ### 📱 Mobile Engineer (Android & iOS)
 *Building scalable mobile applications with automated delivery pipelines*
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30px"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="35" height="35" /> About Me
 <p align="center" style="max-width: 650px;">
 I am a <b>Mobile Software Engineer</b> based in Málaga, specialized in Android (Kotlin) and actively expanding into the iOS ecosystem. Currently honing my skills in an enterprise environment at <b>Viewnext (IBM Group)</b>, bridging the gap between development and operations.
 <br><br>
