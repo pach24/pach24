@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Francisco Pacheco
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Francisco Pacheco
 
 ### 📱 Mobile Engineer (Android & iOS)
 *Building scalable mobile applications with automated delivery pipelines*
@@ -88,6 +88,9 @@ This application demonstrates my ability to bring **industry standards** into pr
 ---
 
 <div align="center">
+
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Outbox%20Tray.webp" alt="Outbox Tray" width="35" height="35" /> Contact me
+  
   <p align="center">
     <a href="https://www.linkedin.com/in/franciscopachecogomez"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;<a href="https://francisco-pacheco.com/"><img alt="Portfolio" src="https://img.shields.io/badge/francisco--pacheco.com-006CFF?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:franciscopachecogomezjob@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
