@@ -27,7 +27,7 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
   <img src="https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
-### 🚀 DevOps & Automation (Differentiator)
+### 🚀 DevOps & Automation 
 <p align="center">
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
