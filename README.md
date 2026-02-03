@@ -19,7 +19,7 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
 ### 📱 Mobile Engineering
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-000000?style=for-the-badge&logo=java_pach24_2_white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=android&logoColor=white"/>
@@ -32,7 +32,7 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
@@ -54,7 +54,7 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="30%" valign="top">
 
 ### Enterprise-Grade Architecture Example
 
@@ -72,7 +72,7 @@ This application demonstrates my ability to bring **industry standards** into pr
 <br>
 
 <a href="https://github.com/pach24/nexosolar-android">
-  <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
