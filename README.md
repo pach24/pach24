@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Francisco Pacheco
 
-### 📱 Mobile Engineer (Android & iOS)
+### 📱 Mobile Android Engineer 
 *Building scalable mobile applications with automated delivery pipelines*
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="35" height="35" /> About Me
