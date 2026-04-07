@@ -49,43 +49,46 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
 ---
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35px"> Featured Project: <b>NexoSolar</b></h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35px"> Featured Project: <b>IB2026FranciscoPG</b></h2>
 </div>
 
 <table>
 <tr>
-<td width="30%" valign="top">
+  <td align="center">
+    <a href="https://github.com/pach24/IB2026FranciscoPG">
+      <img width="100%" alt="IB2026FranciscoPG App" src="https://github.com/user-attachments/assets/7d0e3475-ba01-4415-a7ec-a9e372877fb9" />
+    </a>
+  </td>
+</tr>
 
-### Enterprise-Grade Architecture Example
+<tr>
+  <td valign="top">
 
-This application demonstrates my ability to bring **industry standards** into practice, showcasing a scalable architecture designed for real-world business requirements.
+### Native Android App with Modular, Reactive Architecture
+
+This project showcases a **production-ready Android application** built with **Jetpack Compose**, demonstrating modern mobile engineering practices and **Clean Architecture** principles.
 
 <br>
 
 **Engineering Highlights:**
 
-* **Clean Architecture:** Strict separation of concerns (Domain/Data/Presentation) for testability.
-* **Offline-First Strategy:** Resilient data handling using **Room** as SSOT.
-* **Legacy Compatibility:** Native **Java** implementation (demonstrating ability to maintain/migrate existing codebases).
-* **Reliability:** 100% Business Logic coverage with **JUnit & Mockito**.
+* **Clean Architecture & MVVM:** Strict separation of Domain, Data, and Presentation layers for testability and scalability.
+* **Flexible Data Sources:** Instant switch between **local JSON (RetroMock)** and **Retrofit + Mockoon** for real-time API testing without app restarts.
+* **Advanced UX Features:** Pull-to-refresh, Skeleton loading with shimmer, undoable delete, auto-switch tabs, and smart Empty States.
+* **State Management:** Reactive UI with **StateFlow** and unidirectional data flow.
+* **Robust Offline Handling:** Local caching with **Room** ensures data availability even if the network fails.
+* **Modern UI:** Fully implemented with **Material 3 Expressive**, supporting dark mode and responsive layouts.
+* **Testable & Modular:** Each layer is independent, enabling isolated testing and modular growth.
 
 <br>
 
-<a href="https://github.com/pach24/nexosolar-android">
+<a href="https://github.com/pach24/IB2026FranciscoPG">
   <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
-
-<td width="40%">
-<a href="https://github.com/pach24/nexosolar-android">
-  <img width="100%" alt="NexoSolar App" src="https://github.com/user-attachments/assets/98d13c32-d733-4bde-9eb8-b6e2d8a522d3" />
-</a>
-</td>
+  </td>
 </tr>
 </table>
-
----
 
 <div align="center">
 
