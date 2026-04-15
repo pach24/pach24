@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="35" height="35" /> About Me
 <p align="center" style="max-width: 650px;">
-I am a <b>Mobile Software Engineer</b> based in Málaga, specialized in Android (Kotlin) and actively expanding into the iOS ecosystem. Currently honing my skills in an enterprise environment at <b>Viewnext (IBM Group)</b>, bridging the gap between development and operations.
+I am a <b>Mobile Software Engineer</b> based in Málaga, specialized in Android (Kotlin) and actively expanding into the KMP ecosystem. Currently honing my skills in an enterprise environment at <b>Viewnext (IBM Group)</b>, bridging the gap between development and operations.
 <br><br>
 My philosophy? <b>Efficiency through automation and structure.</b> I build mobile applications that are not just functional, but maintainable and scalable, leveraging Clean Architecture and CI/CD pipelines to ensure high-quality delivery.
 </p>
@@ -49,14 +49,14 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
 ---
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35px"> Featured Project: <b>IB2026FranciscoPG</b></h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35px"> <b>Android App: Billing & Contract Management</b></h2>
 </div>
 
 <table>
 <tr>
   <td align="center">
     <a href="https://github.com/pach24/IB2026FranciscoPG">
-      <img width="100%" alt="IB2026FranciscoPG App" src="https://github.com/user-attachments/assets/7d0e3475-ba01-4415-a7ec-a9e372877fb9" />
+      <img width="80%" alt="Android App: Billing & Contract Management" src="https://github.com/user-attachments/assets/c1485f33-6d00-400c-83ae-10f9bb2d254b" />
     </a>
   </td>
 </tr>
@@ -64,21 +64,30 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
 <tr>
   <td valign="top">
 
-### Native Android App with Modular, Reactive Architecture
 
-This project showcases a **production-ready Android application** built with **Jetpack Compose**, demonstrating modern mobile engineering practices and **Clean Architecture** principles.
 
-<br>
+###  Native Android App with Modular, Reactive Architecture
 
-**Engineering Highlights:**
+During my internship at Viewnext, I developed a native Android application as a training project inspired by a real-world energy sector environment (Iberdrola).
 
-* **Clean Architecture & MVVM:** Strict separation of Domain, Data, and Presentation layers for testability and scalability.
-* **Flexible Data Sources:** Instant switch between **local JSON (RetroMock)** and **Retrofit + Mockoon** for real-time API testing without app restarts.
-* **Advanced UX Features:** Pull-to-refresh, Skeleton loading with shimmer, undoable delete, auto-switch tabs, and smart Empty States.
-* **State Management:** Reactive UI with **StateFlow** and unidirectional data flow.
-* **Robust Offline Handling:** Local caching with **Room** ensures data availability even if the network fails.
-* **Modern UI:** Fully implemented with **Material 3 Expressive**, supporting dark mode and responsive layouts.
-* **Testable & Modular:** Each layer is independent, enabling isolated testing and modular growth.
+The goal was to simulate a professional development scenario, applying modern Android practices and scalable architecture.
+ 
+###  Engineering Highlights:
+
+• Clean Architecture & MVVM: Clear separation of Domain, Data, and Presentation layers
+• Reactive State Management: Built with StateFlow and unidirectional data flow
+• Flexible Data Sources: Seamless switch between local mocks (RetroMock) and API simulation (Retrofit + Mockoon)
+• Offline-first approach: Local caching with Room for improved reliability
+• Modern UI: Jetpack Compose with Material 3, dark mode support and responsive layouts
+• Advanced UX: Skeleton loading (shimmer), pull-to-refresh, undo actions, and dynamic empty states
+
+This project helped me strengthen:
+
+Scalable app architecture
+Real-world development workflows
+Problem-solving in mobile environments
+
+⚠️ This is a training project and not an official application.
 
 <br>
 
