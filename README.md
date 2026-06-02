@@ -42,6 +42,8 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 </div>
@@ -74,12 +76,13 @@ The goal was to simulate a professional development scenario, applying modern An
  
 ###  Engineering Highlights:
 
-• Clean Architecture & MVVM: Clear separation of Domain, Data, and Presentation layers
-• Reactive State Management: Built with StateFlow and unidirectional data flow
-• Flexible Data Sources: Seamless switch between local mocks (RetroMock) and API simulation (Retrofit + Mockoon)
-• Offline-first approach: Local caching with Room for improved reliability
-• Modern UI: Jetpack Compose with Material 3, dark mode support and responsive layouts
-• Advanced UX: Skeleton loading (shimmer), pull-to-refresh, undo actions, and dynamic empty states
+• Clean Architecture & MVVM: Clear separation of Domain, Data, and Presentation layers<br>
+• Reactive State Management: Built with StateFlow and unidirectional data flow<br>
+• Flexible Data Sources: Seamless switch between local mocks (RetroMock) and API simulation (Retrofit + Mockoon)<br>
+• Offline-first approach: Local caching with Room for improved reliability<br>
+• Modern UI: Jetpack Compose with Material 3, dark mode support and responsive layouts<br>
+• Advanced UX: Skeleton loading (shimmer), pull-to-refresh, undo actions, and dynamic empty states<br>
+• Firebase Integration (Observability Layer): Analytics, Crashlytics, Remote Config<br>
 
 This project helped me strengthen:
 
