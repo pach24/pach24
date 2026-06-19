@@ -27,7 +27,7 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
       <h3 align="center">Minerva - AI & Android </h3>
       <div align="center">
         <a href="https://github.com/pach24/Minerva">
-          <img src="https://github.com/user-attachments/assets/90bbc16c-2620-44c1-bbda-81cd38b21b79" width="100%" alt="Minerva App"/>
+          <img src="https://github.com/user-attachments/assets/64eb0767-95ba-4086-b3e1-4968605261e2" width="100%" alt="Minerva App"/>
         </a>
         <br><br>
         <a href="https://github.com/pach24/Minerva">
@@ -41,7 +41,7 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
       <h3 align="center">IberQube </h3>
       <div align="center">
         <a href="https://github.com/pach24/IB2026FranciscoPG">
-          <img src="https://github.com/user-attachments/assets/aa935bb4-09fd-4990-ab7d-12e354bfe6da" width="100%" alt="Enterprise App"/>
+          <img src="https://github.com/user-attachments/assets/afc77b2f-582b-4ea0-9130-956959affbee" width="100%" alt="Enterprise App"/>
         </a>
         <br><br>
         <a href="https://github.com/pach24/IB2026FranciscoPG">
@@ -57,7 +57,7 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
       <h3 align="center">Web Portfolio </h3>
       <div align="center">
         <a href="https://francisco-pacheco.com">
-          <img src="https://github.com/user-attachments/assets/d89b88ca-2de3-42ab-aeb1-3216c059a936" width="100%" alt="Web Portfolio"/>
+          <img  src="https://github.com/user-attachments/assets/d2ed1c9f-99d3-4b14-8a44-6f17e42ae039"  width="100%" alt="Web Portfolio"/>
         </a>
         <br><br>
         <a href="https://francisco-pacheco.com">
@@ -71,7 +71,7 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
       <h3 align="center">S&R - Schedule & Role </h3>
       <div align="center">
         <a href="https://github.com/pach24/Schedule-and-Role">
-          <img src="https://github.com/user-attachments/assets/9e948e97-7db5-479d-b03d-476e1d2a9168" width="100%" alt="Schednd App"/>
+          <img src="https://github.com/user-attachments/assets/a0d1deaf-eb23-4577-8855-8c4b5aa3e1d1" alt="S&R App"/>
         </a>
         <br><br>
         <a href="https://github.com/pach24/Schedule-and-Role">
