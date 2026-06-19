@@ -1,21 +1,92 @@
 <div align="center">
-  
-![Metrics](./github-metrics.svg)
 
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Francisco Pacheco
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Francisco [Pacheco](https://francisco-pacheco.com/)
+<img src="https://github.com/user-attachments/assets/1efa75d0-47b6-4856-afa4-394f8c3b72c9">
 
 ### 📱 Mobile Android Engineer 
-*Building scalable mobile applications with automated delivery pipelines*
+*Building scalable mobile applications with modern architectures and automated delivery pipelines*
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="35" height="35" /> About Me
 <p align="center" style="max-width: 650px;">
-I am a <b>Mobile Software Engineer</b> based in Málaga, specialized in Android (Kotlin) and actively expanding into the KMP ecosystem. Currently honing my skills in an enterprise environment at <b>Viewnext (IBM Group)</b>, bridging the gap between development and operations.
+I am a <b>Mobile Software Engineer</b> based in Málaga, specialized in Android (Kotlin) and actively expanding into the KMP ecosystem. Previously worked at Viewnext (IBM Group), contributing to enterprise Android applications, CI/CD automation, and scalable mobile architectures.
 <br><br>
 My philosophy? <b>Efficiency through automation and structure.</b> I build mobile applications that are not just functional, but maintainable and scalable, leveraging Clean Architecture and CI/CD pipelines to ensure high-quality delivery.
 </p>
 
-<br>
+</div>
+
+---
+
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35px"> <b>Featured Projects</b></h2>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Minerva - AI & Android </h3>
+      <div align="center">
+        <a href="https://github.com/pach24/Minerva">
+          <img src="https://github.com/user-attachments/assets/90bbc16c-2620-44c1-bbda-81cd38b21b79" width="100%" alt="Minerva App"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/pach24/Minerva">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+        </a>
+      </div>
+      <br>
+      <p><b>Full-stack educational platform.</b> Native Android app built with Jetpack Compose, connected to a Python/FastAPI backend. Integrates a Machine Learning predictive model (Scikit-learn) to detect student academic risk. Features robust JWT authentication with Supabase.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">IberQube </h3>
+      <div align="center">
+        <a href="https://github.com/pach24/IB2026FranciscoPG">
+          <img src="https://github.com/user-attachments/assets/aa935bb4-09fd-4990-ab7d-12e354bfe6da" width="100%" alt="Enterprise App"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/pach24/IB2026FranciscoPG">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+        </a>
+      </div>
+      <br>
+      <p><b>Enterprise-grade modular app.</b> Built with Clean Architecture, MVVM, and offline-first capabilities using Room. Features advanced Firebase integration (Remote Config, Crashlytics, Analytics), OTP SMS flows, and RetroMock for API simulation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Web Portfolio </h3>
+      <div align="center">
+        <a href="https://francisco-pacheco.com">
+          <img src="https://github.com/user-attachments/assets/d89b88ca-2de3-42ab-aeb1-3216c059a936" width="100%" alt="Web Portfolio"/>
+        </a>
+        <br><br>
+        <a href="https://francisco-pacheco.com">
+          <img src="https://img.shields.io/badge/_Visit_Website-006CFF?style=for-the-badge" alt="Visit Website"/>
+        </a>
+      </div>
+      <br>
+      <p><b>Personal interactive portfolio.</b> Built from scratch with React 18, Vite, and Tailwind CSS. Features custom Canvas-based background animations (GridEffect), magnetic cursor interactions, and dynamic multi-language support. Fully responsive and optimized for performance.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">S&R - Schedule & Role </h3>
+      <div align="center">
+        <a href="https://github.com/pach24/Schedule-and-Role">
+          <img src="https://github.com/user-attachments/assets/9e948e97-7db5-479d-b03d-476e1d2a9168" width="100%" alt="Schednd App"/>
+        </a>
+        <br><br>
+        <a href="https://github.com/pach24/Schedule-and-Role">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/>
+        </a>
+      </div>
+      <br>
+      <p><b>Event scheduling app showcasing modern UI/UX.</b> 100% Jetpack Compose with custom animations and frosted glass effects. Features seamless Firebase integration (Firestore for real-time updates, Anonymous Auth, Cloud Messaging for Push Notifications).</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
 
 ## 🛠️ Technical Stack
 
@@ -23,10 +94,10 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Java-000000?style=for-the-badge&logo=java_pach24_2_white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM_/_MVI-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
 ### 🚀 DevOps & Automation 
@@ -36,82 +107,25 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ### 🌐 Backend & Data Support
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-</div>
-
----
-
-<div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35px"> <b>Android App: Billing & Contract Management</b></h2>
-</div>
-
-<table>
-<tr>
-  <td align="center">
-    <a href="https://github.com/pach24/IB2026FranciscoPG">
-      <img width="80%" alt="Android App: Billing & Contract Management" src="https://github.com/user-attachments/assets/c1485f33-6d00-400c-83ae-10f9bb2d254b" />
-    </a>
-  </td>
-</tr>
-
-<tr>
-  <td valign="top">
-
-
-
-###  Native Android App with Modular, Reactive Architecture
-
-During my internship at Viewnext, I developed a native Android application as a training project inspired by a real-world energy sector environment (Iberdrola).
-
-The goal was to simulate a professional development scenario, applying modern Android practices and scalable architecture.
- 
-###  Engineering Highlights:
-
-• Clean Architecture & MVVM: Clear separation of Domain, Data, and Presentation layers<br>
-• Reactive State Management: Built with StateFlow and unidirectional data flow<br>
-• Flexible Data Sources: Seamless switch between local mocks (RetroMock) and API simulation (Retrofit + Mockoon)<br>
-• Offline-first approach: Local caching with Room for improved reliability<br>
-• Modern UI: Jetpack Compose with Material 3, dark mode support and responsive layouts<br>
-• Advanced UX: Skeleton loading (shimmer), pull-to-refresh, undo actions, and dynamic empty states<br>
-• Firebase Integration (Observability Layer): Analytics, Crashlytics, Remote Config<br>
-
-This project helped me strengthen:
-
-Scalable app architecture
-Real-world development workflows
-Problem-solving in mobile environments
-
-⚠️ This is a training project and not an official application.
-
 <br>
 
-<a href="https://github.com/pach24/IB2026FranciscoPG">
-  <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-  </td>
-</tr>
-</table>
-
-<div align="center">
-
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Outbox%20Tray.webp" alt="Outbox Tray" width="35" height="35" /> Contact me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Outbox%20Tray.webp" alt="Outbox Tray" width="35" height="35" /> Contact me
   
-  <p align="center">
-    <a href="https://www.linkedin.com/in/franciscopachecogomez"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;<a href="https://francisco-pacheco.com/"><img alt="Portfolio" src="https://img.shields.io/badge/francisco--pacheco.com-006CFF?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:franciscopachecogomezjob@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/franciscopachecogomez"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;<a href="https://francisco-pacheco.com/"><img alt="Portfolio" src="https://img.shields.io/badge/francisco--pacheco.com-006CFF?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:franciscopachecogomezjob@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+
 </div>
