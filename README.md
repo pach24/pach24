@@ -88,38 +88,45 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
 <div align="center">
 
 ## Technical Stack
-
-### Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,firebase,java,gradle" alt="Mobile Stack" />
-</p>
-<p align="center"><i>Jetpack Compose, SwiftUI, Clean Architecture, Hilt, Coroutines & Flow</i></p>
-
-### Web 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind" alt="Web Stack" />
-</p>
-
-### DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,docker,aws,bash,linux" alt="DevOps Stack" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,supabase,sqlite,postgres" alt="Backend Stack" />
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,git,github" alt="Tools Stack" />
-</p>
-
-### Other
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps&theme=light" alt="Design Stack" />
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="120"><b>Mobile</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin,swift,firebase,java,gradle" alt="Mobile Stack" /><br>
+      <i>Jetpack Compose, SwiftUI, Clean Architecture, Hilt, Coroutines & Flow</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind" alt="Web Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,fastapi,supabase,sqlite,postgres" alt="Backend Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=gitlab,jenkins,docker,aws,bash,linux" alt="DevOps Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,git,github" alt="Tools Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Other</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma,ps&theme=light" alt="Design Stack" />
+    </td>
+  </tr>
+</table>
 
 
   
