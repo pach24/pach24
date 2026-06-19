@@ -15,7 +15,7 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
 
 </div>
 
----
+
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35px"> <b>Featured Projects</b></h2>
@@ -84,47 +84,52 @@ My philosophy? <b>Efficiency through automation and structure.</b> I build mobil
   </tr>
 </table>
 
----
 
 <div align="center">
 
-## 🛠️ Technical Stack
+## Technical Stack
 
-### 📱 Mobile Engineering
+### Mobile
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-000000?style=for-the-badge&logo=java_pach24_2_white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM_/_MVI-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,firebase,java,gradle" alt="Mobile Stack" />
+</p>
+<p align="center"><i>Jetpack Compose, SwiftUI, Clean Architecture, Hilt, Coroutines & Flow</i></p>
+
+### Web 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind" alt="Web Stack" />
 </p>
 
-### 🚀 DevOps & Automation 
+### DevOps
 <p align="center">
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gitlab,jenkins,docker,aws,bash,linux" alt="DevOps Stack" />
 </p>
 
-### 🌐 Backend & Data Support
+### Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,supabase,sqlite,postgres" alt="Backend Stack" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,git,github" alt="Tools Stack" />
+</p>
+
+### Other
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps&theme=light" alt="Design Stack" />
+</p>
+
+
+
+  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Outbox%20Tray.webp" alt="Outbox Tray" width="35" height="35" /> Contact me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/franciscopachecogomez" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://francisco-pacheco.com/" target="_blank"><img src="https://github.com/user-attachments/assets/50c03281-8456-4094-8919-80f5fc66ec20" height="50" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:franciscopachecogomezjob@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" alt="Email"></a>
 </p>
 
 <br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Outbox%20Tray.webp" alt="Outbox Tray" width="35" height="35" /> Contact me
-  
-<p align="center">
-  <a href="https://www.linkedin.com/in/franciscopachecogomez"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;<a href="https://francisco-pacheco.com/"><img alt="Portfolio" src="https://img.shields.io/badge/francisco--pacheco.com-006CFF?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:franciscopachecogomezjob@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 
