@@ -7,11 +7,18 @@
 *Building scalable mobile applications with modern architectures and automated delivery pipelines*
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="35" height="35" /> About Me
+
 <p align="center" style="max-width: 650px;">
-I am a <b>Mobile Software Engineer</b> based in Málaga, specialized in Android (Kotlin) and actively expanding into the KMP ecosystem. Previously worked at Viewnext (IBM Group), contributing to enterprise Android applications, CI/CD automation, and scalable mobile architectures.
+I'm a <b>Mobile Software Engineer</b> based in Málaga, specialized in <b>Android development</b> with <b>Kotlin</b> and <b>Jetpack Compose</b>, currently expanding into the <b>Kotlin Multiplatform (KMP)</b> ecosystem.
 <br><br>
-My philosophy? <b>Efficiency through automation and structure.</b> I build mobile applications that are not just functional, but maintainable and scalable, leveraging Clean Architecture and CI/CD pipelines to ensure high-quality delivery.
+I enjoy designing applications with a strong focus on <b>architecture</b>, <b>maintainability</b>, and <b>long-term scalability</b>. My experience includes building <b>production-ready</b> mobile applications using <b>Clean Architecture</b>, <b>MVVM</b>, <b>Dependency Injection</b>, and automated <b>CI/CD pipelines</b>.
+<br><br>
+I'm passionate about creating software that remains easy to evolve as products grow, combining solid engineering principles with modern development practices.
+<br><br>
+<b>I believe great software is built on strong architecture rather than quick fixes.</b>
 </p>
+
+
 
 </div>
 
